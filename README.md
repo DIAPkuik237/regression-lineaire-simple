@@ -15,7 +15,7 @@ y = a * x + b
 1. Étape 1: Calcul des moyennes de x et y:
 x̄=1+2+3/=2; ȳ= 0.4+0.3+0.5/3 =0.4
 2. Étape 2: Calcul de la pente `a` :
-a = Σ((x - x̄)(y - ȳ)) / Σ((x - x̄)^2)
+a = Σ((x - x̄)(y - ȳ)) / Σ((x - x̄)^2
 
 | Étudiant | Xi    | Yi    | Xi- x̄    |  Yi- ȳ   | Produit ( Xi- x̄)(Yi- ȳ)|
 | -------- | ----- | ----- | -------- | ---------| -----------------------|
