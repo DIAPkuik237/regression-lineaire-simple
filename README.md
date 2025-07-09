@@ -13,7 +13,7 @@ Ce projet utilise une régression linéaire pour approximer une relation entre d
 y = a * x + b
 # Étapes de calcul :
 1. Étape 1: Calcul des moyennes de x et y:
-x̄=1+2+3/=2; ȳ= 0.4+0.3+0.5/3 =0.4
+x̄=2+3+1/3=2; ȳ= 0.3+0.5+0.4/3 =0.4
 2. Étape 2: Calcul de la pente `a` :
 a = Σ((x - x̄)(y - ȳ)) / Σ((x - x̄)^2
 
