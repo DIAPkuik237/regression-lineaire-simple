@@ -34,3 +34,5 @@ a= 0.1/2=0.05
 𝑦𝐷=0.05⋅4+0.3=0.5
 4. Tracé de la droite de régression
 5. Animation des résultats (voir le script `regression_animation.py`)
+
+Remarque: x̄=Xmoy  et ȳ=Ymoy
