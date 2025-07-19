@@ -1,4 +1,4 @@
-# regression-lineaire-simple
+# Regression-lineaire-simple
 Premier projet de vulgarisation : prédire une note avec la régression linéaire simple
 | Étudiant | Xi (Étude(h)) | Yi Réussite (score)  | 
 | -------- | -----         | -----                | 
