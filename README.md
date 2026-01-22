@@ -36,3 +36,7 @@ a= 0.1/2=0.05
 5. Animation des résultats (voir le script `regression_animation.py`)
 
 Remarque: x̄=Xmoy  et ȳ=Ymoy
+
+
+
+@diapkuik
